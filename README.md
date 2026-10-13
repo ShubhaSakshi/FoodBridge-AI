@@ -65,3 +65,9 @@ The current Random Forest model was trained on synthetic demonstration data. Its
 - Add secure, consent-based communication and real pickup tracking.
 
 **Project status:** Academic prototype for demonstration and further development.
+
+## Live Demo
+
+**Try FoodBridge AI:** [Launch the live application](https://foodbridge-aigit-4nx6wmfpbs6qh73y4rux5b.streamlit.app)
+
+**Source Code:** [View this project on GitHub](https://github.com/ShubhaSakshi/FoodBridge-AI)
